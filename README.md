@@ -55,7 +55,6 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 ```bash
 git clone https://github.com/<your-username>/Customer-Segmentation-and-Recommendation-System.git
 cd Customer-Segmentation-and-Recommendation-System
-pip install -r requirements.txt
 jupyter notebook customer_segmentation_recommendation_system.ipynb
 ```
 
