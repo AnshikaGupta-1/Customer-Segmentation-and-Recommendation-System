@@ -67,6 +67,7 @@ Dataset: [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/onl
 Customer-Segmentation-and-Recommendation-System/
 ├── customer_segmentation_recommendation_system.ipynb
 ├── assets/
+├── data.csv.zip
 ├── README.md
 └── LICENSE
 ```
