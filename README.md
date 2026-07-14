@@ -68,6 +68,5 @@ Customer-Segmentation-and-Recommendation-System/
 ├── customer_segmentation_recommendation_system.ipynb
 ├── assets/
 ├── data.csv.zip
-├── README.md
-└── LICENSE
+└── README.md
 ```
